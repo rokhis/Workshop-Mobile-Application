@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Widget Rokhis</string>
+    <string-array name="Kategori">
+        <item>Sepakbola</item>
+        <item>Basket</item>
+        <item>Voli</item>
+        <item>Futsal</item>
+        <item>Voli Pantai</item>
+        <item>Polo Air</item>
+    </string-array>
+</resources>
